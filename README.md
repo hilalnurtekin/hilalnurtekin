@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hilalnurtekin
-- 👀 I’m interested in web developer and graphic designer
+- 👀 I’m interested in web development and with graphic design
 - 🌱 I’m currently learning js,python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hilalnurtekin2@gmail.com
