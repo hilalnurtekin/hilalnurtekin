@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Hilal Nur Tekin</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalnurtekin&label=Profile%20views&color=0e75b6&style=flat" alt="hilalnurtekin" /> </p>
-
 <p align="left"> <a href="https://twitter.com/bennnhilal" target="blank"><img src="https://img.shields.io/twitter/follow/bennnhilal?logo=twitter&style=for-the-badge" alt="bennnhilal" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter**
@@ -27,3 +25,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilalnurtekin&show_icons=true&locale=en" alt="hilalnurtekin" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hilalnurtekin&" alt="hilalnurtekin" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hilalnurtekin&label=Profile%20views&color=0e75b6&style=flat" alt="hilalnurtekin" /> </p>
