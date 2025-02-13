@@ -1,4 +1,4 @@
-! [MasterHead] (https://media.licdn.com/dms/image/v2/D4D16AQFwTybbaEjllw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723720047536?e=1744848000&v=beta&t=E872CtWjG8KaYLvaSqHTdzFUnmn5vUf12VpzpaSl83k)
+![MasterHead](https://media.licdn.com/dms/image/v2/D4D16AQFwTybbaEjllw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723720047536?e=1744848000&v=beta&t=E872CtWjG8KaYLvaSqHTdzFUnmn5vUf12VpzpaSl83k)
 
 <h1 align="center">Hi 👋, I'm Hilal Nur Tekin</h1>
 <h3 align="center">A passionate Software Developer from Türkiye</h3>
